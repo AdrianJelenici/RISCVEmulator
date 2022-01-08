@@ -1,0 +1,75 @@
+{
+  "rpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "rpart2": {
+    "mark": 0,
+    "comment": "Program ran and output matched."
+  },
+  "ripart1": {
+    "mark": 0,
+    "comment": "Program ran and output matched."
+  },
+  "ripart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ipart1": {
+    "mark": 24,
+    "comment": "Program ran and output matched."
+  },
+  "ipart2": {
+    "mark": 24,
+    "comment": "Program ran and output matched."
+  },
+  "spart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "spart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "sbpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "sbpart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "upart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "upart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ujpart1": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "ujpart2": {
+    "mark": 12,
+    "comment": "Program ran and output matched."
+  },
+  "custompart1": {
+    "mark": 30,
+    "comment": "Program ran and output matched."
+  },
+  "custompart2": {
+    "mark": 30,
+    "comment": "Program ran and output matched."
+  },
+  "allpart1": {
+    "mark": 90,
+    "comment": "Program ran and output matched."
+  },
+  "allpart2": {
+    "mark": 90,
+    "comment": "Program ran and output matched."
+  },
+  "userid": "GithubID:assignment-2-AdrianJelenici"
+}
